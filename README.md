@@ -18,7 +18,7 @@ This is a simple RESTful API built with Express.js and MySQL to support a blog a
 2. Navigate to the project directory:
 
    ```bash
-   cd react-blog-api
+   cd blog_api
    ```
 
 3. Install the dependencies:
